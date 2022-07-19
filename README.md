@@ -1,2 +1,2 @@
-# Rails
-Proyectos, pruebas, etc. realizados en rails
+# proyecto_ejemplo
+Proyecto inicial de rails 
