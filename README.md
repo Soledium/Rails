@@ -1,2 +1,2 @@
 # Rails
-Proyectos, pruebas, etc realizados en rails
+Proyectos, pruebas, etc. realizados en rails
